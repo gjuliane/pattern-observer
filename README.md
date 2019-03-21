@@ -1,2 +1,2 @@
-# pattern-observer
-Example of pattern observer
+# observer-pattern
+Example of observer pattern
